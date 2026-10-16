@@ -1,9 +1,5 @@
 # ip_fija
 
-Perfecto 🙌, te dejo un instructivo cortito y claro de lo que hicimos para fijar la salida del servidor en la **184.107.6.28**:
-
----
-
 ## 🛠️ Instructivo – Fijar IP de salida en 184.107.6.28
 
 ### 1. Problema detectado
@@ -73,5 +69,3 @@ Debe devolver siempre **184.107.6.28**. 🚀
 ✅ Con esto el problema quedó solucionado sin tener que recrear la VM en OpenNebula.
 
 ---
-
-¿Querés que además te arme un mini instructivo de **cómo usar `/etc/mailips` en WHM** para que cada dominio salga por su propia IP al enviar correos?
